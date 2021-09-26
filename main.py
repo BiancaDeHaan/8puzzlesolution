@@ -138,6 +138,6 @@ if __name__ == '__main__':
 
     # Call the solve function, handles solving the problem
     cost_of_solution = solve(starting_state)
-    print(cost_of_solution)
+    print("The shortest path is: " , cost_of_solution)
 
 
